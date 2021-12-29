@@ -11,12 +11,12 @@ module.exports = {
     nav: [
       { text: 'Home', link: '/', icon: 'reco-home' },
       { text: 'TimeLine', link: '/timeline/', icon: 'reco-date' },
-      { text: 'Docs', 
-        icon: 'reco-message',
-        items: [
-          { text: 'JavaScript数据结构', link: '/docs/JavaScript/' }
-        ]
-      },
+      // { text: 'Docs', 
+      //   icon: 'reco-message',
+      //   items: [
+      //     { text: 'JavaScript数据结构', link: '/docs/JavaScript/' }
+      //   ]
+      // },
       // { text: 'Contact', 
       //   icon: 'reco-message',
       //   items: [
@@ -24,14 +24,14 @@ module.exports = {
       //   ]
       // }
     ],
-    sidebar: {
-      '/docs/JavaScript/': [
-        '',
-        'theme',
-        'plugin',
-        'api'
-      ]
-    },  
+    // sidebar: {
+    //   '/docs/JavaScript/': [
+    //     '',
+    //     'theme',
+    //     'plugin',
+    //     'api'
+    //   ]
+    // },  
     type: 'blog',
     // 博客设置
     blogConfig: {
