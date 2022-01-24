@@ -72,7 +72,7 @@ module.exports = {
     // 最后更新时间
     lastUpdated: 'Last Updated',
     // 作者
-    author: 'Jin Dian',
+    author: '金典',
     // 作者头像
     authorAvatar: 'https://gitee.com/jin-dian/image-cloud/raw/master/jin-avatar.jpg',
     // 备案号
