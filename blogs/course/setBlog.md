@@ -32,16 +32,16 @@ theme-cli init
 
 在[vercel](https://vercel.com)注册账号后登录
 
-![image-20211229152137747](https://gitee.com/jin-dian/image-cloud/raw/master/image-20211229152137747.png)
+![image-20220415104234290](https://cdn.jsdelivr.net/gh/jin-dian/image/blog/image-20220415104234290.png)
 
 点击New Project创建项目，导入github仓库
 
-![image-20211229152332929](https://gitee.com/jin-dian/image-cloud/raw/master/image-20211229152332929.png)
+![image-20220415104315493](https://cdn.jsdelivr.net/gh/jin-dian/image/blog/image-20220415104315493.png)
 
-![image-20211229152927212](https://gitee.com/jin-dian/image-cloud/raw/master/image-20211229152927212.png)
+![image-20220415104330977](https://cdn.jsdelivr.net/gh/jin-dian/image/blog/image-20220415104330977.png)
 
 选择对应仓库后，点击import导入，再点击Deploy构建部署
 
-![image-20211229153328999](https://gitee.com/jin-dian/image-cloud/raw/master/image-20211229153328999.png)
+![image-20220415104352349](https://cdn.jsdelivr.net/gh/jin-dian/image/blog/image-20220415104352349.png)
 
 构建完成后进入概览页，点击Visit按钮，进入博客页面。

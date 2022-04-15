@@ -3,7 +3,7 @@ module.exports = {
   description: '随便写写',
   dest: 'public',
   head: [
-    ['link', { rel: 'icon', href: 'https://gitee.com/jin-dian/image-cloud/raw/master/jin-avatar.jpg' }],
+    ['link', { rel: 'icon', href: 'https://cdn.jsdelivr.net/gh/jin-dian/image/blog/20220415105433.png' }],
     ['meta', { name: 'viewport', content: 'width=device-width,initial-scale=1,user-scalable=no' }]
   ],
   locales: {
@@ -74,7 +74,7 @@ module.exports = {
     // 作者
     author: '金典',
     // 作者头像
-    authorAvatar: 'https://gitee.com/jin-dian/image-cloud/raw/master/jin-avatar.jpg',
+    authorAvatar: 'https://cdn.jsdelivr.net/gh/jin-dian/image/blog/20220415105433.png',
     // 备案号
     // record: 'xxxx',
     // 项目开始时间
